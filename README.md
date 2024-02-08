@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Galaxyys</h1>
 <h3 align="center">A student from France</h3>
-<h4 align="center"><a href="https://nextjs-portfolio-two-blond.vercel.app">Check out my portfolio</a></h4>
 
 - 🌱 I’m currently learning **NextJS**
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="center"><a href="https://nextjs-portfolio-two-blond.vercel.app">Check out my portfolio</a></h4>
 <p align="left">
 </p>
 
