@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Galaxyys</h1>
-<h3 align="center">A student from France</h3>
+<h3 align="center">Software developer from France</h3>
 
 - 🌱 I’m currently learning **Mobile Development**
 
